@@ -64,9 +64,9 @@ function loadCards(data, roomCount) {
             <span class="ui ${room_color} basic circular label">
               ${room_sponsor}
             </span>
-            <span class="ui mini labels session-tags">
+            <!-- span class="ui mini labels session-tags">
               ${tagsHtml}
-            </span>
+            </span -->
             <span title="Room Capacity: ${capacity}" class="ui circular basic  label no-border">
               ${capacity}
               <i class="icon users"></i>
