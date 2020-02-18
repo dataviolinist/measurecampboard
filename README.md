@@ -1,3 +1,8 @@
 # MeasureCamp Session Board
 
-## TODOs: https://github.com/vitaluha/measurecampboard/issues/1
+copy and replace the google docs link: 
+/webroot/board-config.js
+update the google doc
+
+npm i 
+node web.js 
